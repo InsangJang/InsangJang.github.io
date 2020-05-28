@@ -16,15 +16,17 @@ minimal_mistakes_skin    : "neon"  # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "All about automotive programming"
+title                    : "Space of Theorem"
 title_separator          : "-"
 name                     : "Michael Jang"
-description              : "automotive spacialist"
+description              : "all about automotive programming for automotive spacialist"
 url                      : "https://insangjang.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # "devbruce/devbruce.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/InsangJang/insangjang.github.io" # "devbruce/devbruce.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+logo                     : # "/assets/images/lulu.jpg"
+masthead_title           : "Space of Theorem"
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
@@ -104,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Jang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/lulu.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Automotive Developer"
   location         : "Republic of Korea"
   email            : 

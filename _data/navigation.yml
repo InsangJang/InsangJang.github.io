@@ -13,10 +13,10 @@ extensions:
     children:
       - title: "Design Pattern"
         url: /categories/design_pattern/
-      # - title: "Design Pattern"
-      #   url: /categories/python/
-      # - title: "Django"
-      #   url: /categories/django/
+      - title: "Modern C++"
+        url: /categories/modern_cpp/
+      - title: "Boost Library"
+        url: /categories/boost_library/
       # - title: "HTML&CSS"
       #   url: /categories/hc/
       # - title: "JavaScript"
@@ -36,12 +36,12 @@ extensions:
       # - title: "Algorithm"
       #   url: /categories/algorithm/
         
-  # - title: Data Science
-  #   children:
-  #     - title: "Machine Learning"
-  #       url: /categories/machinelearning/
+  - title: Qt Programming
+    children:
+      - title: "qml"
+        url: # /categories/machinelearning/
 
-  # - title: Extensions
-  #   children:
-  #     - title: "Algorithm Problem Solving"
-  #       url: https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/README.md
+  - title: Linux Programming
+    children:
+      - title: "Shell Script"
+        url: # https://github.com/DevBruce/Algorithm_Problem_Solving/blob/master/README.md
